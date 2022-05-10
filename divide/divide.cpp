@@ -11,7 +11,7 @@ void maxmin(int i, int j);
 int main(){
 	int i, num;
 	
-	cout << "\n\t\tMaxmin dengan minimum\n";
+	cout << "\n\t\tMaxmum dengan minimum\n";
 	cout << "Masukkan Banyak Angka : ";
 	cin >> num;
 	
