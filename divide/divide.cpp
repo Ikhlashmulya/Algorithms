@@ -1,4 +1,4 @@
-//Mencari nilai maximum dan minimum menggunakan algoritma divide
+//Mencari nilai maximum dan minimum menggunakan algoritma divide and conquer
 #include <iostream>
 #include <conio.h>
 
